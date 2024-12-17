@@ -5,9 +5,28 @@
 Je suis un Alternant Concepteur Développeur passionné par les applications web. J'aime créer, apprendre et résoudre des problèmes grâce à Java/React/Angular.
 
 # 🛠️ Compétences
-1- Langages : [HTML, CSS, Angular, Java, JS, C++, SQL, Spring]
-2- Outils   : [VS Code, Git, Figma, Trello, IntelliJ, Spring Tool Suite] 
-3- Frameworks/Bibliothèques : [React, Tailwind CSS, Bootstrap]
+- **Langages**  
+  - HTML  
+  - CSS  
+  - Angular  
+  - Java  
+  - JavaScript  
+  - C++  
+  - SQL  
+  - Spring  
+
+- **Outils**  
+  - VS Code  
+  - Git  
+  - Figma  
+  - Trello  
+  - IntelliJ  
+  - Spring Tool Suite  
+
+- **Frameworks/Bibliothèques**  
+  - React  
+  - Tailwind CSS  
+  - Bootstrap  
 
 
 <!--
