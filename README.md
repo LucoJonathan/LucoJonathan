@@ -1,4 +1,14 @@
-## Hi there 👋
+# 🚀 Mon Portfolio
+🚧 Work in progress !
+
+# 👤 À propos de moi
+Je suis un Alternant Concepteur Développeur passionné par les applications web. J'aime créer, apprendre et résoudre des problèmes grâce à Java/React/Angular.
+
+# 🛠️ Compétences
+1- Langages : [HTML, CSS, Angular, Java, JS, C++, SQL, Spring]
+2- Outils   : [VS Code, Git, Figma, Trello, IntelliJ, Spring Tool Suite] 
+3- Frameworks/Bibliothèques : [React, Tailwind CSS, Bootstrap]
+
 
 <!--
 **LucoJonathan/LucoJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
