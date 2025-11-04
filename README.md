@@ -2,7 +2,7 @@
 🚧 Work in progress !
 
 # 👤 À propos de moi
-Je suis un Alternant Concepteur Développeur passionné par les applications web. J'aime créer, apprendre et résoudre des problèmes grâce à Java/React/Angular.
+Je suis un simple Alternant plutôt sympas à Decathlon.
 
 # 🛠️ Compétences
 - **Langages**  
